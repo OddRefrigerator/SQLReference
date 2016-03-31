@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DataDefinitionLanguage", "DataDefinitionLanguage\DataDefinitionLanguage.ssmssqlproj", "{4608EFB9-ED8B-4D91-84C6-B61C87C959B3}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DataManipulationLanguage", "DataManipulationLanguage\DataManipulationLanguage.ssmssqlproj", "{1F11A6F0-D770-48BE-8D90-9A525E03F37C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DataControlLanguage", "DataControlLanguage\DataControlLanguage.ssmssqlproj", "{5E8A875D-3868-41BE-9111-8DF5AD1E8D96}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TransactionControl", "TransactionControl\TransactionControl.ssmssqlproj", "{AFA68BAE-591B-4F05-89A4-CCD8818527D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4608EFB9-ED8B-4D91-84C6-B61C87C959B3}.Default|Default.ActiveCfg = Default
+		{1F11A6F0-D770-48BE-8D90-9A525E03F37C}.Default|Default.ActiveCfg = Default
+		{5E8A875D-3868-41BE-9111-8DF5AD1E8D96}.Default|Default.ActiveCfg = Default
+		{AFA68BAE-591B-4F05-89A4-CCD8818527D0}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
