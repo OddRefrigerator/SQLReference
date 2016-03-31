@@ -14,7 +14,7 @@ GO
 --GO
 
 CREATE TABLE Employees.SalesOrg (
-	EmployeeID int IDENTITY(1,1),
+	EmployeeID int IDENTITY(1,1) PRIMARY KEY,
 	EmployeeFirstName varchar(75) NOT NULL,
 	EmployeeMiddleName varchar(50),
 	EmployeeLastName varchar(50) NOT NULL,

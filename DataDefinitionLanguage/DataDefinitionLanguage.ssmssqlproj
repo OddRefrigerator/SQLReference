@@ -25,11 +25,17 @@
           <AssociatedConnUserName />
           <FullPath>CreateDatabase.sql</FullPath>
         </FileNode>
-        <FileNode Name="CreateTable.sql">
+        <FileNode Name="CreateEmployeeCountryTable.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ONYX\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>ONYX\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>CreateTable.sql</FullPath>
+          <FullPath>CreateEmployeeCountryTable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateEmployeeTable.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ONYX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ONYX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateEmployeeTable.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

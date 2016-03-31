@@ -7,7 +7,7 @@ GO
 
 CREATE TABLE Employees.Country (
 	CountryID int IDENTITY(1,1),
-	CountryCanada varchar(100) NOT NULL
+	CountryName varchar(100) NOT NULL
 )
 GO
 
